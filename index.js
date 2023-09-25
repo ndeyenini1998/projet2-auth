@@ -22,9 +22,3 @@ app.use('/user', userRoutes);
 app.listen(PORT, () => {
   console.log(`Server started on port ${PORT}`);
 });
-// {
-//   "token"= "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MGMwZDQ2NTgzOWM1MTQ2ODZjYzZiYTAiLCJpYXQiOjE2MTkxMzcyNjAsImV4cCI6MTYxOTE0MDg2MH0.wJGkkTz27e_vyaxf1M85rMUPtNvXo25ntGtJgdy-aNk"
-// }
-// {
-//   "message"= "Welcome john.doe"
-// }
